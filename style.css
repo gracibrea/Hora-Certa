@@ -71,7 +71,7 @@ footer {
 @media screen and (max-width: 600px) {
     .body {
         max-width: 80vw;
-        min-height: 80vh;
+        min-height: 60vh;
     }
 
 }
