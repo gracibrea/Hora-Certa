@@ -11,7 +11,7 @@ body {
     flex-direction: column;
     background-color: antiquewhite;
     max-width: 50vw;
-    min-height: 75vh;
+    min-height: 70vh;
     margin: auto;
     align-items: center;
     justify-content: center;
@@ -47,10 +47,10 @@ button:hover {
     color: #f1e0c9;
 }
 
-p {
-    margin: 0;
+.copy {
+    text-align: center;
+    margin-top: -30px;
 }
-
 a {
     text-decoration: none;
     color: black;
@@ -66,4 +66,12 @@ footer {
     font-size: 0.9em;
     text-align: center;
     margin-top: 22%;
+}
+
+@media screen and (max-width: 600px) {
+    .body {
+        max-width: 80vw;
+        min-height: 80vh;
+    }
+
 }
