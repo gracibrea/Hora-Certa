@@ -1,6 +1,5 @@
-HORA CERTA
+# HORA CERTA
 
-Exercício desenvolvido para praticar aprendizados de Java Script: manipulação de data, funções, interval.
+Exercício desenvolvido para praticar aprendizados de Java Script: data manipulation, fuctions, interval.
 
-Reforçar aprendizados anteriores em HTML e CSS
-
+Reforçar aprendizados anteriores em HTML e CSS.
