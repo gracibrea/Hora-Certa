@@ -4,6 +4,8 @@ body {
     background-color: rgb(236, 234, 234);
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
+    margin: 0;
+    padding: 0 ;
 }
 
 .body {
@@ -49,7 +51,8 @@ button:hover {
 
 .copy {
     text-align: center;
-    margin-top: -30px;
+    margin: -30px 250px;
+    padding: 0;
 }
 a {
     text-decoration: none;
@@ -72,6 +75,11 @@ footer {
     .body {
         max-width: 80vw;
         min-height: 60vh;
+    }
+
+    .copy {
+        margin: auto;
+        margin-top: -30px;
     }
 
 }
